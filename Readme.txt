@@ -1,4 +1,2 @@
-Please visit my website in
-
-
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+#Welcome to my website
+##Site URL: https://bristi-jana.netlify.app/
