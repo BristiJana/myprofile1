@@ -1,2 +1,2 @@
-#Welcome to my website
-##Site URL: https://bristi-jana.netlify.app/
+Welcome to my website
+Site URL: https://bristi-jana.netlify.app/
